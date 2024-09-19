@@ -1,0 +1,15 @@
+Difference Between Simple and Advanced
+
+change report simple to Advanced 
+
+properties: -
+-----------
+Columns:- 
+override the columns headings
+Business Objects
+Field 
+format 
+options
+sort :-
+-----
+ based on employee id is ascending order And descending order
